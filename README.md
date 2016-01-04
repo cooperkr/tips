@@ -40,6 +40,11 @@ Describe any challenges encountered while building the app.
 
 I get a Thread 1:breakpoint 1.1 depending on what number I enter for the billamount. I haven't figued out how to solve that yet.
 
+update: removed the debugging flags. 
+
+## Environment
+I am running Version 7.2 (7C68), iPhone5 simulator,  MBP 10.11.2 El Capitan
+
 ## License
 
     Copyright [2015] [cooperkr]
